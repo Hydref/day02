@@ -1,0 +1,30 @@
+body{
+    
+
+}
+header{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    
+}
+#li_1 {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    text-align: center; 
+
+    
+}
+
+
+#content {
+
+}   
+#footer_gauche {
+    justify-content: center;
+
+}
+#footer_droit{
+
+}
