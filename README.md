@@ -1,7 +1,5 @@
 Impair-programming par:
 
-DUTHEIL Charles
-ABOUINAN Hicham
-CHARPAGNE Jimmy
+DUTHEIL Charles & ABOUINAN Hicham & CHARPAGNE Jimmy
 
-Lien en prod : http://hydref.github.io/day02
+Lien en prod : https://hydref.github.io/day02/
